@@ -31,7 +31,7 @@ function register(){
 
 studentPortal_btn.addEventListener("click", portal);
 function portal(){
-    window.location.href="../portal/index.html"
+    window.location.href="../student_portal";
 }
 
 studentMarks_btn.addEventListener("click", marks);
