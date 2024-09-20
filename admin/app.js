@@ -29,10 +29,6 @@ function register(){
     window.location.href = "../registration/index.html"
 }
 
-studentPortal_btn.addEventListener("click", portal);
-function portal(){
-    window.location.href="../student_portal/index.html";
-}
 
 studentMarks_btn.addEventListener("click", marks);
 function  marks() {
